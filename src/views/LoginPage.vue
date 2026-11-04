@@ -9,7 +9,7 @@
                 <span class="brand-mark">n</span><span>nexo<span class="brand-dot">.</span></span>
               </div>
               <span class="page-eyebrow">Finanças mais leves</span>
-              <h1>Organize para escolher o próximo passo.</h1>
+              <h1>Clareza para escolher o próximo passo.</h1>
               <p>Organize suas entradas e saídas em um só lugar e acompanhe sua vida financeira com tranquilidade.</p>
               <div class="story-signature"><span></span> Seu espaço financeiro pessoal</div>
             </section>
