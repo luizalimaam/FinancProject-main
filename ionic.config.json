@@ -1,0 +1,7 @@
+{
+  "name": "nexo-financeiro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
