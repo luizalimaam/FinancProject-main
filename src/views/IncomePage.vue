@@ -32,7 +32,7 @@
         </ion-list>
         <div v-else-if="!loading" class="empty-state">
           <span class="empty-icon"><ion-icon :icon="cashOutline" /></span>
-          <h2>Nenhuma receita por aqui</h2>
+          <h2>Nenhuma receita por aqui.</h2>
           <p>Adicione sua primeira receita para ter uma visão completa do seu saldo.</p>
           <ion-button fill="outline" @click="abrirFormularioNovo">Adicionar receita</ion-button>
         </div>

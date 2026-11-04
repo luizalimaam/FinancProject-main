@@ -5,7 +5,7 @@
       <main class="page-shell">
         <section class="welcome-row">
           <div>
-            <span class="page-eyebrow">Seu panorama financeiro</span>
+            <span class="page-eyebrow">Seu panorama financeiro!</span>
             <h1 class="page-heading">Tudo em equilíbrio.</h1>
             <p class="page-description">Acompanhe o que entra, o que sai e os próximos passos.</p>
           </div>
